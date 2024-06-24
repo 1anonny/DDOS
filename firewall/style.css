@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+main h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.coisas{
+    text-align: center;
+    padding: 10px;
+}
+
+.coisas input{
+    padding: 10px;
+    margin-top: 15px;
+}
